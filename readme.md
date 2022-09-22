@@ -1,0 +1,23 @@
+- [x] Role management commands 
+- [x] Logging (Needs some refining)
+- [x] General Commands (help, botinfo, serverinfo, userinfo, etc.)
+- [x] Games (RPS, Coinflip, TicTacToe & Connect-4(*WIP*))
+- [ ] Support (Tickets)
+- [ ] Moderation
+- [ ] Auto-Moderation
+- [ ] Auto voice channels
+- [ ] Economy (cookies that you nom (so Fire can have an actual useful `/nom` command))
+- [ ] Games (RPS, etc.)
+- [ ] YouTube/Twitch/Twitter notifications
+- [ ] Reaction Roles
+- [ ] Auto Roles
+- [ ] Giveaways
+- [ ] StickyMessages
+- [ ] Suggestions
+- [ ] Levelling (able to migrate from mee6 if they make a ticket to)
+- [ ] Auto Welcomer
+- [ ] Custom Commands
+- [ ] Server Statistics Channels
+- [ ] Music (This will be added later on since it uses a lot of resources and we can’t use YouTube (would use Spotify instead))
+- [ ] Timers (timed messages, reminders, countdowns, etc.)
+- [ ] Applications
